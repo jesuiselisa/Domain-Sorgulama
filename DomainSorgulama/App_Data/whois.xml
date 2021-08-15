@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+  <whois>
+    <TLD>.ac</TLD>
+    <Server>whois.nic.ac</Server>
+    <Registrar>http://www.nic.ac/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Ascension Adası </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ae</TLD>
+    <Server>whois.aeda.net.ae</Server>
+    <Registrar>http://aeda.ae/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Birleşik Arap Emirlikleri</Ulke>
+  </whois>
+  <whois>
+    <TLD>.aero</TLD>
+    <Server>whois.aero</Server>
+    <Registrar>http://www.information.aero</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ag</TLD>
+    <Server>whois.nic.ag</Server>
+    <Registrar>http://www.nic.ag</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Antigua Ve Barbuda</Ulke>
+  </whois>
+  <whois>
+    <TLD>.ai</TLD>
+    <Server>whois.ai</Server>
+    <Registrar>http://nic.com.ai</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Anguilla  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.am</TLD>
+    <Server>whois.amnic.net</Server>
+    <Registrar>http://www.amnic.net</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Ermenistan  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.arpa</TLD>
+    <Server>whois.iana.org</Server>
+    <Registrar>http://www.iana.org/arpa-dom/</Registrar>
+    <Tip>infrastructure</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.as</TLD>
+    <Server>whois.nic.as</Server>
+    <Registrar>http://www.nic.as</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Amerikan Samoası </Ulke>
+  </whois>
+  <whois>
+    <TLD>.asia</TLD>
+    <Server>whois.nic.asia</Server>
+    <Registrar>http://www.registry.asia</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.at</TLD>
+    <Server>whois.nic.at</Server>
+    <Registrar>http://www.nic.at/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Avusturya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.au</TLD>
+    <Server>whois.audns.net.au</Server>
+    <Registrar>http://www.auda.org.au/domains/au-domains/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Avustralya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.be</TLD>
+    <Server>whois.dns.be</Server>
+    <Registrar>http://www.dns.be</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Belçika  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.bg</TLD>
+    <Server>whois.register.bg</Server>
+    <Registrar>http://www.register.bg</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Bulgaristan  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.biz</TLD>
+    <Server>whois.biz</Server>
+    <Registrar>http://www.nic.biz</Registrar>
+    <Tip>generic-restricted</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.bj</TLD>
+    <Server>whois.nic.bj</Server>
+    <Registrar>http://www.nic.bj</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Benin  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.bo</TLD>
+    <Server>whois.nic.bo</Server>
+    <Registrar>http://www.nic.bo</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Bolivya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.br</TLD>
+    <Server>whois.registro.br</Server>
+    <Registrar>http://registro.br/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Brezilya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ca</TLD>
+    <Server>whois.cira.ca</Server>
+    <Registrar>http://www.cira.ca/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Kanada  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.cat</TLD>
+    <Server>whois.cat</Server>
+    <Registrar>http://www.domini.cat</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.cc</TLD>
+    <Server>ccwhois.verisign-grs.com</Server>
+    <Registrar>http://www.nic.cc/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Cocos (Keeling) Adaları</Ulke>
+  </whois>
+  <whois>
+    <TLD>.ch</TLD>
+    <Server>whois.nic.ch</Server>
+    <Registrar>http://www.nic.ch/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>İsviçre  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ci</TLD>
+    <Server>whois.nic.ci</Server>
+    <Registrar>http://www.nic.ci</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Fildişi Sahili </Ulke>
+  </whois>
+  <whois>
+    <TLD>.cl</TLD>
+    <Server>whois.nic.cl</Server>
+    <Registrar>http://www.nic.cl/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Şili  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.cn</TLD>
+    <Server>whois.cnnic.cn</Server>
+    <Registrar>http://www.cnnic.cn/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Çin  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.com</TLD>
+    <Server>whois.verisign-grs.com</Server>
+    <Registrar>http://www.verisign-grs.com</Registrar>
+    <Tip>generic</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.coop</TLD>
+    <Server>whois.nic.coop</Server>
+    <Registrar>http://www.nic.coop</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.cx</TLD>
+    <Server>whois.nic.cx</Server>
+    <Registrar>http://www.nic.cx</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Christmas Adası </Ulke>
+  </whois>
+  <whois>
+    <TLD>.cz</TLD>
+    <Server>whois.nic.cz</Server>
+    <Registrar>http://www.nic.cz/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Çek Cumhuriyeti </Ulke>
+  </whois>
+  <whois>
+    <TLD>.de</TLD>
+    <Server>whois.denic.de</Server>
+    <Registrar>http://www.denic.de/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Almanya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.dk</TLD>
+    <Server>whois.dk-hostmaster.dk</Server>
+    <Registrar>http://www.dk-hostmaster.dk/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Danimarka  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.dm</TLD>
+    <Server>whois.nic.dm</Server>
+    <Registrar>http://www.nic.dm</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Dominika  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ec</TLD>
+    <Server>whois.nic.ec</Server>
+    <Registrar>http://www.nic.ec</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Ekvador  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.edu</TLD>
+    <Server>whois.educause.edu</Server>
+    <Registrar>http://www.educause.edu/edudomain</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ee</TLD>
+    <Server>whois.eenet.ee</Server>
+    <Registrar>http://www.eenet.ee/services/subdomains.html</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Estonya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.eu</TLD>
+    <Server>whois.eu</Server>
+    <Registrar>http://www.eurid.eu</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Avrupa Birliği </Ulke>
+  </whois>
+  <whois>
+    <TLD>.fi</TLD>
+    <Server>whois.ficora.fi</Server>
+    <Registrar>https://domain.ficora.fi</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Finlandiya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.fr</TLD>
+    <Server>whois.nic.fr</Server>
+    <Registrar>http://www.nic.fr/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Fransa  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.gd</TLD>
+    <Server>whois.adamsnames.com</Server>
+    <Registrar>http://www.adamsnames.com</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Grenada  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.gg</TLD>
+    <Server>whois.gg</Server>
+    <Registrar>http://www.channelisles.net/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Guernsey  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.gi</TLD>
+    <Server>whois2.afilias-grs.net</Server>
+    <Registrar>http://www.nic.gi</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Cebelitarık  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.gov</TLD>
+    <Server>whois.dotgov.gov</Server>
+    <Registrar>http://www.dotgov.gov</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.gs</TLD>
+    <Server>whois.nic.gs</Server>
+    <Registrar>http://secure.nic.gs</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Güney Georgia ve</Ulke>
+  </whois>
+  <whois>
+    <TLD>.gy</TLD>
+    <Server>whois.registry.gy</Server>
+    <Registrar>http://registry.gy/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Guyana  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.hk</TLD>
+    <Server>whois.hkirc.hk</Server>
+    <Registrar>http://www.hkirc.hk</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Hong Kong </Ulke>
+  </whois>
+  <whois>
+    <TLD>.hn</TLD>
+    <Server>whois2.afilias-grs.net</Server>
+    <Registrar>http://www.nic.hn</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Honduras  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ht</TLD>
+    <Server>whois.nic.ht</Server>
+    <Registrar>http://www.nic.ht</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Haiti  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ie</TLD>
+    <Server>whois.domainregistry.ie</Server>
+    <Registrar>http://www.domainregistry.ie</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>İrlanda  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.il</TLD>
+    <Server>whois.isoc.org.il</Server>
+    <Registrar>http://www.isoc.org.il/domains</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>İsrail  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.in</TLD>
+    <Server>whois.inregistry.net</Server>
+    <Registrar>http://www.registry.in</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Hindistan  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.info</TLD>
+    <Server>whois.afilias.net</Server>
+    <Registrar>http://www.nic.info</Registrar>
+    <Tip>generic</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.int</TLD>
+    <Server>whois.iana.org</Server>
+    <Registrar>http://www.iana.org/int-dom/int.htm</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.io</TLD>
+    <Server>whois.nic.io</Server>
+    <Registrar>http://www.nic.io/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Britanya Hint Okyanusu</Ulke>
+  </whois>
+  <whois>
+    <TLD>.ir</TLD>
+    <Server>whois.nic.ir</Server>
+    <Registrar>http://www.nic.ir</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>İran İslam Cumhuriyeti</Ulke>
+  </whois>
+  <whois>
+    <TLD>.is</TLD>
+    <Server>whois.isnic.is</Server>
+    <Registrar>http://www.isnic.is/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>İzlanda  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.it</TLD>
+    <Server>whois.nic.it</Server>
+    <Registrar>http://www.nic.it/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>İtalya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.je</TLD>
+    <Server>whois.je</Server>
+    <Registrar>http://www.channelisles.net/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Jersey  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.jobs</TLD>
+    <Server>jobswhois.verisign-grs.com</Server>
+    <Registrar>http://www.goto.jobs</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.jp</TLD>
+    <Server>whois.jprs.jp</Server>
+    <Registrar>http://jprs.jp/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Japonya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ke</TLD>
+    <Server>whois.kenic.or.ke</Server>
+    <Registrar>http://www.kenic.or.ke</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Kenya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ki</TLD>
+    <Server>whois.nic.ki</Server>
+    <Registrar>http://www.nic.ki</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Kiribati  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.kp</TLD>
+    <Server>whois.kcce.kp</Server>
+    <Registrar>http://www.kcce.kp</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Kuzey Kore </Ulke>
+  </whois>
+  <whois>
+    <TLD>.kr</TLD>
+    <Server>whois.nic.or.kr</Server>
+    <Registrar>http://www.nic.or.kr/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Güney Kore </Ulke>
+  </whois>
+  <whois>
+    <TLD>.kz</TLD>
+    <Server>whois.nic.kz</Server>
+    <Registrar>http://www.nic.kz</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Kazakistan  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.la</TLD>
+    <Server>whois.nic.la</Server>
+    <Registrar>http://www.la</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Laos  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.li</TLD>
+    <Server>whois.nic.li</Server>
+    <Registrar>http://www.nic.li</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Lihtenştayn  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.lt</TLD>
+    <Server>whois.domreg.lt</Server>
+    <Registrar>http://www.domreg.lt</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Litvanya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.lu</TLD>
+    <Server>whois.dns.lu</Server>
+    <Registrar>http://www.dns.lu</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Lüxemburg  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.lv</TLD>
+    <Server>whois.nic.lv</Server>
+    <Registrar>http://www.nic.lv/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Letonya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ly</TLD>
+    <Server>whois.nic.ly</Server>
+    <Registrar>http://www.nic.ly/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Libya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ma</TLD>
+    <Server>whois.iam.net.ma</Server>
+    <Registrar>http://www.nic.ma/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Fas  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.md</TLD>
+    <Server>whois.nic.md</Server>
+    <Registrar>http://www.register.md</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Moldova  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.me</TLD>
+    <Server>whois.nic.me</Server>
+    <Registrar>http://www.nic.me</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Karadağ  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.mg</TLD>
+    <Server>whois.nic.mg</Server>
+    <Registrar>http://www.nic.mg</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Madagaskar  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.mn</TLD>
+    <Server>whois.nic.mn</Server>
+    <Registrar>http://www.nic.mn</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Moğolistan  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.mobi</TLD>
+    <Server>whois.dotmobiregistry.net</Server>
+    <Registrar>http://www.mtld.mobi</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ms</TLD>
+    <Server>whois.nic.ms</Server>
+    <Registrar>http://www.nic.ms</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Montserrat  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.mu</TLD>
+    <Server>whois.nic.mu</Server>
+    <Registrar>http://www.nic.mu/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Mauritius  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.museum</TLD>
+    <Server>whois.museum</Server>
+    <Registrar>http://musedoma.museum</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.mx</TLD>
+    <Server>whois.mx</Server>
+    <Registrar>http://www.nic.mx/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Meksika  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.my</TLD>
+    <Server>whois.domainregistry.my</Server>
+    <Registrar>http://www.domainregistry.my</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Malezya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.na</TLD>
+    <Server>whois.na-nic.com.na</Server>
+    <Registrar>http://www.na-nic.com.na/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Namibya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.name</TLD>
+    <Server>whois.nic.name</Server>
+    <Registrar>http://www.name</Registrar>
+    <Tip>generic-restricted</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.net</TLD>
+    <Server>whois.verisign-grs.com</Server>
+    <Registrar>http://www.verisign-grs.com</Registrar>
+    <Tip>generic</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ng</TLD>
+    <Server>whois.nic.net.ng</Server>
+    <Registrar>http://www.nira.org.ng/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Nijerya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.nl</TLD>
+    <Server>whois.domain-registry.nl</Server>
+    <Registrar>http://www.domain-registry.nl/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Hollanda  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.no</TLD>
+    <Server>whois.norid.no</Server>
+    <Registrar>http://www.norid.no</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Norveç  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.nu</TLD>
+    <Server>whois.nic.nu</Server>
+    <Registrar>http://www.nunames.nu/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Niue  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.nz</TLD>
+    <Server>whois.srs.net.nz</Server>
+    <Registrar>http://www.dnc.org.nz/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Yeni Zelanda </Ulke>
+  </whois>
+  <whois>
+    <TLD>.org</TLD>
+    <Server>whois.pir.org</Server>
+    <Registrar>http://www.pir.org</Registrar>
+    <Tip>generic</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.pe</TLD>
+    <Server>kero.yachay.pe</Server>
+    <Registrar>http://www.nic.pe</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Peru  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.pl</TLD>
+    <Server>whois.dns.pl</Server>
+    <Registrar>http://www.dns.pl/english/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Polonya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.pm</TLD>
+    <Server>whois.nic.pm</Server>
+    <Registrar>http://www.nic.pm/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Saint Pierre Ve</Ulke>
+  </whois>
+  <whois>
+    <TLD>.pr</TLD>
+    <Server>whois.nic.pr</Server>
+    <Registrar>http://www.nic.pr</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Porto Riko </Ulke>
+  </whois>
+  <whois>
+    <TLD>.pro</TLD>
+    <Server>whois.registrypro.pro</Server>
+    <Registrar>http://www.registrypro.pro/</Registrar>
+    <Tip>generic-restricted</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.re</TLD>
+    <Server>whois.nic.re</Server>
+    <Registrar>http://www.nic.re/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Réunion  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ro</TLD>
+    <Server>whois.rotld.ro</Server>
+    <Registrar>http://www.rotld.ro/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Romanya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ru</TLD>
+    <Server>whois.ripn.net</Server>
+    <Registrar>http://www.cctld.ru/en</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Rusya Federasyonu </Ulke>
+  </whois>
+  <whois>
+    <TLD>.sa</TLD>
+    <Server>whois.nic.net.sa</Server>
+    <Registrar>http://www.nic.net.sa/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Suudi Arabistan </Ulke>
+  </whois>
+  <whois>
+    <TLD>.sb</TLD>
+    <Server>whois.nic.net.sb</Server>
+    <Registrar>http://www.nic.net.sb/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Solomon Adaları </Ulke>
+  </whois>
+  <whois>
+    <TLD>.sc</TLD>
+    <Server>whois2.afilias-grs.net</Server>
+    <Registrar>http://www.nic.sc</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Seyşel Adaları </Ulke>
+  </whois>
+  <whois>
+    <TLD>.se</TLD>
+    <Server>whois.iis.se</Server>
+    <Registrar>http://www.iis.se</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>İsveç  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.sg</TLD>
+    <Server>whois.nic.net.sg</Server>
+    <Registrar>http://www.nic.net.sg/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Singapur  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.sh</TLD>
+    <Server>whois.nic.sh</Server>
+    <Registrar>http://www.nic.sh/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Saint Helena </Ulke>
+  </whois>
+  <whois>
+    <TLD>.si</TLD>
+    <Server>whois.arnes.si</Server>
+    <Registrar>http://www.arnes.si/si-domene/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Slovenya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.sk</TLD>
+    <Server>whois.sk-nic.sk</Server>
+    <Registrar>http://www.sk-nic.sk</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Slovakya  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.sm</TLD>
+    <Server>whois.ripe.net</Server>
+    <Registrar>http://www.nic.sm</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>San Marino </Ulke>
+  </whois>
+  <whois>
+    <TLD>.sn</TLD>
+    <Server>whois.nic.sn</Server>
+    <Registrar>http://www.nic.sn</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Senegal  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.so</TLD>
+    <Server>whois.nic.so</Server>
+    <Registrar>http://www.nic.so/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Somali  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.st</TLD>
+    <Server>whois.nic.st</Server>
+    <Registrar>http://www.nic.st</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>São Tomé Ve</Ulke>
+  </whois>
+  <whois>
+    <TLD>.tc</TLD>
+    <Server>whois.adamsnames.tc</Server>
+    <Registrar>http://www.adamsnames.tc/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Turks Ve Caicos</Ulke>
+  </whois>
+  <whois>
+    <TLD>.tel</TLD>
+    <Server>whois.nic.tel</Server>
+    <Registrar>http://www.nic.tel</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.tf</TLD>
+    <Server>whois.nic.tf</Server>
+    <Registrar>http://www.nic.tf/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Güney Fransız Toprakları</Ulke>
+  </whois>
+  <whois>
+    <TLD>.th</TLD>
+    <Server>whois.thnic.co.th</Server>
+    <Registrar>http://www.thnic.co.th</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Tayland  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.tk</TLD>
+    <Server>whois.dot.tk</Server>
+    <Registrar>http://www.dot.tk</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Tokelau  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.tl</TLD>
+    <Server>whois.nic.tl</Server>
+    <Registrar>http://www.nic.tl</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Doğu Timor </Ulke>
+  </whois>
+  <whois>
+    <TLD>.tm</TLD>
+    <Server>whois.nic.tm</Server>
+    <Registrar>http://www.nic.tm/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Türkmenistan  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.to</TLD>
+    <Server>whois.tonic.to</Server>
+    <Registrar>http://www.tonic.to/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Tonga  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.tr</TLD>
+    <Server>whois.nic.tr</Server>
+    <Registrar>http://www.nic.tr</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Türkiye  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.travel</TLD>
+    <Server>whois.nic.travel</Server>
+    <Registrar>http://www.travel.travel/</Registrar>
+    <Tip>sponsored</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.tv</TLD>
+    <Server>tvwhois.verisign-grs.com</Server>
+    <Registrar>http://www.tv</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Tuvalu  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.tw</TLD>
+    <Server>whois.twnic.net.tw</Server>
+    <Registrar>http://rs.twnic.net.tw</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Tayvan  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ua</TLD>
+    <Server>whois.net.ua</Server>
+    <Registrar>http://nic.net.ua/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Ukrayna  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.ug</TLD>
+    <Server>whois.co.ug</Server>
+    <Registrar>http://www.registry.co.ug</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Uganda  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.uk</TLD>
+    <Server>whois.nic.uk</Server>
+    <Registrar>http://www.nic.uk/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>İngiltere  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.us</TLD>
+    <Server>whois.nic.us</Server>
+    <Registrar>http://www.nic.us</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Amerika Birleşik Devletleri</Ulke>
+  </whois>
+  <whois>
+    <TLD>.uy</TLD>
+    <Server>whois.nic.org.uy</Server>
+    <Registrar>http://www.nic.org.uy/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Uruguay  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.uz</TLD>
+    <Server>whois.cctld.uz</Server>
+    <Registrar>http://www.cctld.uz/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Özbekistan  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.vc</TLD>
+    <Server>whois2.afilias-grs.net</Server>
+    <Tip>country-code</Tip>
+    <Ulke>Saint Vincent Ve</Ulke>
+  </whois>
+  <whois>
+    <TLD>.ve</TLD>
+    <Server>whois.nic.ve</Server>
+    <Registrar>http://www.nic.ve/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Venezuela  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.vg</TLD>
+    <Server>whois.adamsnames.tc</Server>
+    <Registrar>http://www.adamsnames.tc/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>İngiltere Virgin Adaları</Ulke>
+  </whois>
+  <whois>
+    <TLD>.wf</TLD>
+    <Server>whois.nic.wf</Server>
+    <Registrar>http://www.nic.wf/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Wallis Ve Futuna</Ulke>
+  </whois>
+  <whois>
+    <TLD>.ws</TLD>
+    <Server>whois.website.ws</Server>
+    <Registrar>http://www.samoanic.ws</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Samoa  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.xxx</TLD>
+    <Server>whois.nic.xxx</Server>
+    <Registrar>http://www.icmregistry.com/</Registrar>
+    <Tip>generic-restricted</Tip>
+    <Ulke>  </Ulke>
+  </whois>
+  <whois>
+    <TLD>.yt</TLD>
+    <Server>whois.nic.yt</Server>
+    <Registrar>http://www.nic.yt/</Registrar>
+    <Tip>country-code</Tip>
+    <Ulke>Mayotte  </Ulke>
+  </whois>
+</dataroot>
